@@ -12,7 +12,7 @@ A canvas of the obstacle space including the clearance, a pygame amimation of tr
 and backtracked path in the workspace are displayed.
 
 
-TESTCASES : (Check the videos provided)
-1 . start(5,5) goal(310,110)
+TESTCASES : (Check the videos provided)  
+1 . start(5,5) goal(310,110)  
 
 2 . start(10,10) goal(350,10) 
