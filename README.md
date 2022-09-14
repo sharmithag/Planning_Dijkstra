@@ -16,6 +16,7 @@ and backtracked path in the workspace are displayed.
 
 ## TESTCASES VISUALIZED: (Check the videos provided)  
 
-1 . start(5,5) goal(310,110)  
+1 . start(5,5) goal(310,110) 
+/home/sharmitha/Downloads/dijkstra_testcase1.mp4
 
 2 . start(10,10) goal(350,10) 
