@@ -13,11 +13,13 @@ Approximately, the code takes 350 - 400 seconds to run.
 A canvas of the obstacle space including the clearance, a pygame amimation of traversing goal node, covered nodes in the workspace
 and backtracked path in the workspace are displayed.
 
-
 ## TESTCASES VISUALIZED: (Check the videos provided)  
 
 1 . start(5,5) goal(310,110) 
-https://youtu.be/WAvxIkf6WMs
+
+https://user-images.githubusercontent.com/90351952/190538910-8f1217c5-57b2-4039-8eff-e177f75d0aa7.mp4
 
 2 . start(10,10) goal(350,10) 
-https://youtu.be/cLkRq4rJcNY
+
+https://user-images.githubusercontent.com/90351952/190538966-4ee62147-054d-462c-8ae7-cdb50934d177.mp4
+
